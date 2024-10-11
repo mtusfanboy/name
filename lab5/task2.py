@@ -1,5 +1,5 @@
 class Circle:
-    def __init__(self, radius):
+    def __init__(self, radius=0):
         self.radius = radius
 
     def get_radius(self):
